@@ -1,0 +1,14 @@
+I:\3 курс\Практика\Cinema\bin\Release\Cinema.exe.config
+I:\3 курс\Практика\Cinema\bin\Release\Cinema.exe
+I:\3 курс\Практика\Cinema\bin\Release\Cinema.pdb
+I:\3 курс\Практика\Cinema\obj\Release\Cinema.csprojResolveAssemblyReference.cache
+I:\3 курс\Практика\Cinema\obj\Release\Cinema.AddForm.resources
+I:\3 курс\Практика\Cinema\obj\Release\Cinema.Autorisation.resources
+I:\3 курс\Практика\Cinema\obj\Release\Cinema.BoughtTickets.resources
+I:\3 курс\Практика\Cinema\obj\Release\Cinema.ByeTicket.resources
+I:\3 курс\Практика\Cinema\obj\Release\Cinema.EditForm.resources
+I:\3 курс\Практика\Cinema\obj\Release\Cinema.MainForm.resources
+I:\3 курс\Практика\Cinema\obj\Release\Cinema.Properties.Resources.resources
+I:\3 курс\Практика\Cinema\obj\Release\Cinema.csproj.GenerateResource.Cache
+I:\3 курс\Практика\Cinema\obj\Release\Cinema.exe
+I:\3 курс\Практика\Cinema\obj\Release\Cinema.pdb
